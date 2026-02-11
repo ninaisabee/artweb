@@ -1,0 +1,40 @@
+# Jekyll configuration
+title: Nina McNinch’s Portfolio
+description: A portfolio site showcasing artwork and creative practice
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+
+# Collections
+collections:
+  galleries:
+    output: true
+    permalink: /gallery/:name/
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "galleries"
+    values:
+      layout: "gallery"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<article>
+    <h1>{{ page.title }}</h1>
+    
+    {% if page.images %}
+    <div class="rotating-gallery">
+        <div class="gallery-container">
+            {% for image in page.images %}
+            <div class="gallery-item {% if forloop.first %}active{% endif %}" data-index="{{ forloop.index0 }}">
+                <img src="{{ image.url | relative_url }}" alt="{{ image.caption | default: 'Gallery image' }}">
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="gallery-controls">
+            <button class="gallery-nav-btn" id="prev-btn">← Previous</button>
+            <span class="gallery-counter">
+                <span id="current-index">1</span> / <span id="total-items">{{ page.images | size }}</span>
+            </span>
+            <button class="gallery-nav-btn" id="next-btn">Next →</button>
+        </div>
+
+        {% if page.images[0].caption %}
+        <div class="gallery-info">
+            <h3 id="image-title">{{ page.images[0].caption }}</h3>
+            {% if page.images[0].description %}<p id="image-desc">{{ page.images[0].description }}</p>{% endif %}
+        </div>
+        {% endif %}
+    </div>
+
+    <script>
+        (function() {
+            const items = document.querySelectorAll('.gallery-item');
+            const totalItems = items.length;
+            let currentIndex = 0;
+
+            function showItem(index) {
+                items.forEach(item => item.classList.remove('active'));
+                items[index].classList.add('active');
+                document.getElementById('current-index').textContent = index + 1;
+                
+                // Update caption if available
+                const imageData = {{ page.images | jsonify }};
+                if (imageData[index]) {
+                    const titleEl = document.getElementById('image-title');
+                    const descEl = document.getElementById('image-desc');
+                    if (titleEl && imageData[index].caption) {
+                        titleEl.textContent = imageData[index].caption;
+                    }
+                    if (descEl && imageData[index].description) {
+                        descEl.textContent = imageData[index].description;
+                    }
+                }
+            }
+
+            document.getElementById('next-btn').addEventListener('click', function() {
+                currentIndex = (currentIndex + 1) % totalItems;
+                showItem(currentIndex);
+            });
+
+            document.getElementById('prev-btn').addEventListener('click', function() {
+                currentIndex = (currentIndex - 1 + totalItems) % totalItems;
+                showItem(currentIndex);
+            });
+
+            // Keyboard navigation
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'ArrowRight') {
+                    currentIndex = (currentIndex + 1) % totalItems;
+                    showItem(currentIndex);
+                } else if (e.key === 'ArrowLeft') {
+                    currentIndex = (currentIndex - 1 + totalItems) % totalItems;
+                    showItem(currentIndex);
+                }
+            });
+        })();
+    </script>
+    {% endif %}
+
+    {{ content }}
+</article>
