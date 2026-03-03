@@ -4,7 +4,7 @@ title: Seed Pod
 permalink: /gallery/Seed-Pod/
 thumbnail: /assets/images/Seed-Pod-Book/Inside.JPG
 images:
-  - url: /assets/images/Seed-Pod-Book/cover.JPG
+  - url: /assets/images/Seed-Pod-Book/Cover.JPG
     caption: "Cover Page"
     description: "Etching on Kita Kata, 2025"
   - url: /assets/images/Seed-Pod-Book/Inside.JPG
