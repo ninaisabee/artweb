@@ -366,8 +366,9 @@ main {
 
 /* Footer */
 footer {
-  background: var(--primary);
+  /* background: var(--primary); */
   /* color: white; */
+  background-color:rgb(111, 144, 47);
   padding: 2rem 0;
   margin-top: 4rem;
   border-top: 1px solid var(--border);
@@ -375,7 +376,7 @@ footer {
 }
 
 footer p {
-  color: rgba(255,255,255,0.8);
+  color: rgba(35, 29, 16, 0.8);
   margin: 0;
 }
 
