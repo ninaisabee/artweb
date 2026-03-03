@@ -1,12 +1,12 @@
 ---
 layout: gallery
-title: Series two
-permalink: /gallery/series-two/
-thumbnail: /assets/images/series-two/2021-07--Chris-and-Carol-visit-Boston--04.jpg
+title: bit of bark
+permalink: /gallery/bit-of-bark/
+thumbnail: /assets/images/bit of bark/Cover.JPG
 images:
-  - url: /assets/images/series-two/2021-07--Chris-and-Carol-visit-Boston--04.jpg
-    caption: "Artwork Title 1"
-    description: "Mixed media on canvas, 2024"
+  - url: /assets/images/bit of bark/Cover.JPG
+    caption: "bit of bark Cover"
+    description: "Etchings on Handmade Gampi, 2025"
   - url: /assets/images/series-two/2021-07--Chris-and-Carol-visit-Boston--05.jpg
     caption: "Artwork Title 2"
     description: "Acrylic on paper, 2024"

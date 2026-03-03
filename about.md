@@ -1,5 +1,5 @@
 ---
-image: /assets/images/series-one/2021-07--Chris-and-Carol-visit-Boston--01.jpg
+image: /assets/images/Headshot 2026.JPG
 layout: two-column
 title: About
 permalink: /about

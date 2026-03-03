@@ -6,10 +6,10 @@ permalink: /cv
 
 ## Education
 
-### Master of Fine Arts
-University Name — 2020–2022
+### Bachelor of Fine Arts
+School of the Museum of Fine Arts at Tufts University — 2022–2026
 
-Concentration: Your Focus
+Concentration: Print & Paper
 
 ## Selected Exhibitions
 
