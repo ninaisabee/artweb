@@ -2,7 +2,7 @@
 title: Nina McNinch’s Portfolio
 description: A portfolio site showcasing artwork and creative practice
 url: ""
-baseurl: ""
+baseurl: "/artweb"
 
 # Build settings
 markdown: kramdown
