@@ -6,32 +6,40 @@ permalink: /cv
 
 ## Education
 
-### Bachelor of Fine Arts
-School of the Museum of Fine Arts at Tufts University — 2022–2026
+School of the Museum of Fine Arts at Tufts University — 2022–2026 (expected)
+Bachelor of Fine Arts
+Boston, MA
 
-Concentration: Print & Paper
+University of the Arts London Camberwell
+Fall 2024 
+Illustrtration Year 2
+London, UK
 
 ## Selected Exhibitions
 
-### Solo Exhibitions
+**Senior Thesis** (2026 - Upcoming)
+School of the Museum of Fine Arts, Boston MA
 
-**Exhibition Title** (2024)
-Gallery Name, City
+**Print and Paper Area Show** (2026 - Upcoming)
+School of the Museum of Fine Arts, Boston MA
 
-### Group Exhibitions
+**Member Show** (2025)
+The Ink Shop, Ithaca NY
 
-**Another Exhibition** (2024)
-Institution Name, City
+**Collaborative Unit Exhibition** (2024)
+University of the Arts London Camberwell, London UK
 
-## Awards & Recognition
+**24th Annual Regional High School Art Show** (2022)
+Lex Art, Lexington MA
+
+**Public Art Youth Banner** (2019)
+University of the Arts London Camberwell, London UK
 
 ### Grants & Fellowships
 
 **Award/Grant Name** (2024)
 
 ## Professional Experience
-
-### Teaching
 
 **Course Title** (2023–Present)
 Institution Name
