@@ -1,6 +1,6 @@
 ---
 image: /assets/images/nina-print.jpeg
-layout: two-column
+layout: three-column
 permalink: /
 ---
 
