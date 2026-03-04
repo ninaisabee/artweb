@@ -1,12 +1,12 @@
 ---
 image: /assets/images/nina-print.jpeg
-layout: three-column
+layout: two-column
 permalink: /
 ---
 
 <div class="landing">
     <h1>Nina McNinch</h1>
-    <p class="subtitle">Papermaker, Printmaker, Bookartist</p>
+    <p class="subtitle">papermaker, printmaker, bookartist</p>
     
     <div class="nav-grid">
         <a href="{{ '/about' | relative_url }}" class="nav-card">
