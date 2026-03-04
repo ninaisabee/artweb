@@ -6,9 +6,8 @@ permalink: /cv
 
 ## Education
 
-Penland School of Craft - Hanji: Korea’s Indigenous Technique Summer Workshop
-June 2025
-Penland, North Carolina
+**Penland School of Craft** - Hanji: Korea’s Indigenous Technique Summer Workshop
+- June 2025 Penland, North Carolina
 
 School of the Museum of Fine Arts at Tufts University — 2022–2026 (expected)
 Bachelor of Fine Arts
@@ -16,7 +15,7 @@ Boston, MA
 
 University of the Arts London Camberwell
 Fall 2024 
-Illustrtration Year 2
+Illustration Year 2
 London, UK
 
 ## Selected Exhibitions
