@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: bit of bark
-permalink: /gallery/bit-of-bark/
+permalink: /works/bit-of-bark/
 thumbnail: /assets/images/bit of bark/Cover.JPG
 images:
   - url: /assets/images/bit of bark/Cover.JPG
