@@ -10,12 +10,11 @@ permalink: /cv
 <br> Hanji: Korea’s Indigenous Technique Summer Workshop
 <br> Penland, North Carolina
 
-**School of the Museum of Fine Arts at Tufts University** — 2022–2026 (expected)
+**School of the Museum of Fine Arts at Tufts University** 2022–2026 (expected)
 <br> Bachelor of Fine Arts
 <br> Boston, MA
 
-**University of the Arts London Camberwell**
-— Fall 2024
+**University of the Arts London Camberwell** Fall 2024
 <br> Illustration Year 2
 <br> London, UK
 
