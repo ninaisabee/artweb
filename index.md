@@ -1,5 +1,5 @@
 ---
-image: /assets/images/nina-print.jpeg
+image: /assets/images/ladybug.JPG
 layout: two-column
 permalink: /
 ---
