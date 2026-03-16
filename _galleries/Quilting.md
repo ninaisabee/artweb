@@ -1,7 +1,7 @@
 ---
 layout: gallery
-title: Quilt
-permalink: /works/Quilt/
+title: Quilting
+permalink: /works/Quilting/
 thumbnail: /assets/images/quilt/quilt-cropped.JPG
 images:
   - url: /assets/images/quilt/quilt.JPG
