@@ -1,7 +1,7 @@
 ---
 layout: gallery
-title: Seed Pod
-permalink: /works/Seed-Pod/
+title: Quilt
+permalink: /works/Quilt/
 thumbnail: /assets/images/Quilt.JPG
 images:
   - url: /assets/images/Quilt.JPG
