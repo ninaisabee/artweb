@@ -2,9 +2,9 @@
 layout: gallery
 title: Quilt
 permalink: /works/Quilt/
-thumbnail: /assets/images/quilt.JPG
+thumbnail: /assets/images/quilt/quilt-cropped.JPG
 images:
-  - url: /assets/images/quilt.JPG
+  - url: /assets/images/quilt/quilt.JPG
     caption: "The Airing of the Quilt"
     description: "Hand naturally dyed quilt"
 ---
