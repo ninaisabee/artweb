@@ -1,14 +1,22 @@
 ---
-image: /assets/images/ladybug.JPG
-layout: two-column
+#image: /assets/images/ladybug.JPG
+#layout: two-column
 permalink: /
+body_class: landing-page
 ---
 
-<div class="landing">
+<style>
+body { 
+ background-image: url("./assets/images/two-bunnies.jpg");
+ background-size: cover;
+}
+</style>
+
+<div style="text-align: center;">
     <h1>Nina McNinch</h1>
     <p class="subtitle">papermaker, printmaker, bookartist</p>
     
-    <div class="nav-grid">
+    <div style="margin-top:8cm;" class="nav-grid">
         <a href="{{ '/about' | relative_url }}" class="nav-card">
             <h2>About</h2>
             
