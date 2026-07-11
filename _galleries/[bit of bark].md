@@ -7,12 +7,12 @@ images:
   - url: /assets/images/[bit of bark]/Cover.JPG
     caption: "[bit of bark] Cover"
     description: "Etchings on Handmade Gampi, 2025"
-  - url: /assets/images/series-two/2021-07--Chris-and-Carol-visit-Boston--05.jpg
-    caption: "Artwork Title 2"
-    description: "Acrylic on paper, 2024"
-  - url: /assets/images/series-two/2021-07--Chris-and-Carol-visit-Boston--06.jpg
-    caption: "Artwork Title 3"
-    description: "Digital print, 2024"
+  - url: /assets/images/[bit of bark]/Page-1.JPG
+    caption: "[bit of bark] Page 1"
+    description: "Etchings on Handmade Gampi, 2025"
+  - url: /assets/images/[bit of bark]/Page-4.JPG
+    caption: "[bit of bark] Page 4"
+    description: "Etchings on Handmade Gampi, 2025"
 ---
 
 ## About This Series
